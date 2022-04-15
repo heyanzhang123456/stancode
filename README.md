@@ -1,1 +1,1 @@
-# stancode
+# stanford programming software
